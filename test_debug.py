@@ -1,1 +1,3 @@
-print("This is debug")
+
+def made_debug():
+    print("This is debug")
